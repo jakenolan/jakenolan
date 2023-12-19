@@ -4,8 +4,6 @@
 
 🔭 I’m currently working on [Project Title](https://github.com/)
 
-🌱 I’m currently learning **LLMs, Gen AI, LLM Tuning**
-
 💬 Ask me about **AI, LLMs, Gen AI, Business**
 
 📫 How to reach me **email@domain.com**
@@ -19,5 +17,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="android" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="Language" width="40" height="40"/> </a> 
 </p>
