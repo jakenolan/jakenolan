@@ -1,16 +1,23 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Jake Nolan</h1>
+<h3 align="center">A passionate AI developer and consultant</h3>
+<img align="right" alt="Main Image" width = "400" src="">
 
-<!--
-**jakenolan/jakenolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on [Project Title](https://github.com/)
 
-Here are some ideas to get you started:
+🌱 I’m currently learning **LLMs, Gen AI, LLM Tuning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about **AI, LLMs, Gen AI, Business**
+
+📫 How to reach me **email@domain.com**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="" target="blank"><img align="center" src="" alt="Jake Nolan" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="" alt="Jake Nolan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="android" width="40" height="40"/> </a> 
+</p>
