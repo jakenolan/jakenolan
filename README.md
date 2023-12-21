@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI developer and consultant</h3>
 <img align="right" alt="Main Image" width = "400" src="">
 
-🔭 I’m currently working on [Project Title](github_README_img.png)
+🔭 I’m currently working on [Project Title](https://github.com/jakenolan/jakenolan/blob/main/github_README_img.png)
 
 💬 Ask me about **AI, LLMs, Gen AI, Business**
 
