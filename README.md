@@ -2,7 +2,6 @@
 <h3 align="center" style="border-bottom: 0;">A passionate AI developer and consultant</h3>
 
 <br>
-<br>
 
 <img align="right" alt="Main Image" width = "400" src="github_README_img.png">
 
@@ -11,7 +10,6 @@
 <h5>📫 How to reach me **jake@jakenolan.dev**</h5>
 
 <br>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +17,6 @@
   <a href="" target="blank"><img align="center" src="" alt="Jake Nolan" height="30" width="40" /></a>
 </p>
 
-<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
