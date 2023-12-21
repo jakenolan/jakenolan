@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jake Nolan</h1>
-<h2 align="center" style="border-bottom: 0">A passionate AI developer and consultant</h2>
+<h2 align="center" style="border-bottom: None;">A passionate AI developer and consultant</h2>
 
 <img align="right" alt="Main Image" width = "400" src="github_README_img.png">
 
