@@ -27,5 +27,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" alt="Streamlit" width="40" height="40"/>
-  <span style="line-height: 100%;">🦜️🔗</span>
+  <font style="line-height: 100%;">🦜️🔗</font>
 </div>
