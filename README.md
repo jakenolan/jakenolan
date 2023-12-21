@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.jakenolan.dev/" target="blank">Website</a>
-  <a href="https://medium.com/@jake-nolan" target="blank">Blog</a>
-  <a href="https://www.linkedin.com/in/jake-nolan0" target="blank">LinkedIn</a>
+  <a href="https://www.jakenolan.dev/" target="blank"><img src="" alt="My Website" width="40" height="40"/></a>
+  <a href="https://medium.com/@jake-nolan" target="blank"><img src="" alt="My Blog" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/jake-nolan0" target="blank"><img src="" alt="My LinkedIn" width="40" height="40"/></a>
 </p>
 
 <br>
