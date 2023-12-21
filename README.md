@@ -6,7 +6,7 @@
 
 💬 Ask me about **AI, LLMs, Gen AI, Business**
 
-📫 How to reach me **email@domain.com**
+📫 How to reach me **jake@jakenolan.dev**
 
 <h3 align="left">Connect with me:</h3>
 
