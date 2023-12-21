@@ -5,9 +5,9 @@
 
 <img align="right" alt="Main Image" width = "400" src="github_README_img.png">
 
-<h5>🔭 I’m currently working on [Project Title](https://github.com/)</h5>
-<h5>💬 Ask me about **AI, LLMs, Gen AI, Business**</h5>
-<h5>📫 How to reach me **jake@jakenolan.dev**</h5>
+<p>🔭 I’m currently working on [Project Title](https://github.com/)</p>
+<p>💬 Ask me about **AI, LLMs, Gen AI, Business**</p>
+<p>📫 How to reach me **jake@jakenolan.dev**</p>
 
 <br>
 
