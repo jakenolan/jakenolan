@@ -21,7 +21,7 @@
 
 <br>
 
-<h3 align="left">Top Languages and Tools:</h3>
+<h3 align="left" style="display:inline;">Top Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="Python" width="40" height="40"/>
   <div width="40" height="40">🦜️🔗</div>
