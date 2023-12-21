@@ -5,7 +5,7 @@
 
 <img align="right" alt="Main Image" width = "400" src="github_README_img.png">
 
-🔭 I’m currently working on [Project Title](https://github.com/)
+🔭 I’m currently working on [OCR Capabilities of GPT4 Vision](https://github.com/jakenolan/ocr-with-gpt4v)
 
 💬 Ask me about **AI, LLMs, Gen AI, Business**
 
