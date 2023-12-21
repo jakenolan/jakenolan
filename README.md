@@ -22,7 +22,7 @@
 <br>
 
 <h3 align="left">Top Languages and Tools:</h3>
-<div style="display: inline-block;">
+<div style="display: inline-block; vertical-align: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40"/>
