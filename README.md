@@ -16,9 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.jakenolan.dev/" target="blank">Website</a>
-  
   <a href="https://medium.com/@jake-nolan" target="blank">Blog</a>
-  
   <a href="https://www.linkedin.com/in/jake-nolan0" target="blank">LinkedIn</a>
 </p>
 
