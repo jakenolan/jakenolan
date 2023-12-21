@@ -6,7 +6,9 @@
 <img align="right" alt="Main Image" width = "400" src="github_README_img.png">
 
 🔭 I’m currently working on [Project Title](https://github.com/)
+
 💬 Ask me about **AI, LLMs, Gen AI, Business**
+
 📫 How to reach me **jake@jakenolan.dev**
 
 <br>
