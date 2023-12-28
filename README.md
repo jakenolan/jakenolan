@@ -5,7 +5,7 @@
 
 <img align="right" alt="Main Image" width = "400" src="github_README_img.png">
 
-🔭 I’m currently working on [Simple PDF Extraction]()
+🔭 I’m currently working on [Data Entry Automation](https://github.com/jakenolan/data-entry-automation)
 
 💬 Ask me about **AI, LLMs, Gen AI, Business**
 
