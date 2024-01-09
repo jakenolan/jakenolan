@@ -5,7 +5,7 @@
 
 <img align="right" alt="Main Image" width = "400" src="github_README_img.png">
 
-🔭 I’m currently working on [Data Entry Automation](https://github.com/jakenolan/data-entry-automation)
+🔭 I’m currently working on [Automating Data Entry With AI]([https://github.com/jakenolan/data-entry-automation](https://github.com/jakenolan/automating-data-entry-with-ai))
 
 💬 Ask me about **AI, LLMs, Gen AI, Business**
 
