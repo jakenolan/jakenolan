@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jake Nolan</h1>
-<h3 align="center" style="border-bottom: 0;">A passionate AI developer and consultant</h3>
+<h3 align="center" style="border-bottom: 0;">A passionate software engineer and AI researcher</h3>
 
 <br>
 
